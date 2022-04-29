@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: rgba(130, 15, 114, 0.949) !important;
+  color: rgba(115, 145, 154, 0.949) !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
