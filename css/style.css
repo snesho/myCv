@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: rgba(115, 145, 154, 0.949);;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: rgba(115, 145, 154, 0.949);;
 }
 
 #fh5co-header,
