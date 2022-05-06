@@ -19,6 +19,8 @@ body {
   background: #fff;
 }
 
+
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -81,7 +83,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: rgba(115, 145, 154, 0.949);;
+  background: rgba(115, 145, 154, 0.949);
 }
 
 #fh5co-header,
